@@ -1,0 +1,4 @@
+Responses:
+Exercise 0
+1/ package.json
+2/ A package. json is a JSON file that exists at the root of a Javascript/Node project. It holds metadata relevant to the project and it is used for managing the project's dependencies, scripts, version and a whole lot more
